@@ -41,16 +41,6 @@ python run_deployment.py
 
 This project is simple to use just run the run_deployment.py with a --config of deploy, predict, deploy_and_predict
 
-## Acknowledgments
-
-- **Dataset Creator:**
-  - We extend our gratitude to [Name of Dataset Creator] for providing the dataset used in this project. Their efforts in curating and making the dataset available are highly appreciated.
-
-- **Libraries:**
-  - This project leverages the following open-source libraries:
-    - [MLFlow](https://www.mlflow.org/): An open-source platform to manage the end-to-end machine learning lifecycle.
-    - [ZenML](https://zenml.io/): A machine learning operations library to streamline ML workflows.
-    - [Add any other libraries used in your project]
 
 ## License
 
